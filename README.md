@@ -1,11 +1,14 @@
 # Example
----
-This example is part of a working project. 
-I didn't include the server side. The configuration, and the container and components are working just in the same way as coded here.
-This example is not perfect, but I just figured a lot of things that are not very clear in the documentation that may be useful for someone else.
+
 ---
 
-## In this example I use
+This example is part of a working project. 
+
+I didn't include the server side, jsut the client. The configuration, and the container and components are working just in the same way as coded here.
+
+The patterns in the example are not perfect, but I just figured out a lot of stuff that are not very clear in the documentation, that may be useful for someone else.
+
+In this example I use:
 
 * [React](https://github.com/facebook/react) 
 * [Redux](https://github.com/reactjs/redux)
@@ -18,6 +21,8 @@ This example is not perfect, but I just figured a lot of things that are not ver
 * [React DND (Drag and Drop)](https://github.com/gaearon/react-dnd)
 * [Babel](https://github.com/babel/babel)
 
-My Twitter is @EnriqueSalazar
+My Twitter is [@EnriqueSalazar](https://twitter.com/EnriqueSalazar)
 
 I hope you like it.
+
+## Enrique.
