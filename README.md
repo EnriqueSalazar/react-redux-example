@@ -4,7 +4,7 @@
 
 This example is part of a working project. 
 
-I didn't include the server side, jsut the client. The configuration, and the container and components are working just in the same way as coded here.
+I didn't include the server side, just the client. The configuration, and the container and components are working just in the same way as coded here.
 
 The patterns in the example are not perfect, but I just figured out a lot of stuff that are not very clear in the documentation, that may be useful for someone else.
 
@@ -23,6 +23,7 @@ In this example I use:
 
 My Twitter is [@EnriqueSalazar](https://twitter.com/EnriqueSalazar)
 
-I hope you like it.
+I hope you use it!
 
 ## Enrique.
+
