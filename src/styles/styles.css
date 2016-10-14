@@ -1,0 +1,11 @@
+.react-bs-table table th {
+  overflow: hidden;
+  white-space: pre-wrap;
+  text-overflow: ellipsis;
+}
+
+.react-bs-table table td {
+  overflow: hidden;
+  white-space: pre-wrap;
+  text-overflow: ellipsis;
+}
